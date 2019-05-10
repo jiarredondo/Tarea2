@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="titulo">Tarea2</string>
+    <string name="titulo2">Bluetooth Manager</string>
+    <string name="titulo3">History</string>
+    <string name="botonEnc">ENCENDER BT</string>
+    <string name="botonApag">APAGAR BT</string>
+</resources>
